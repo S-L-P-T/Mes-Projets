@@ -1,0 +1,30 @@
+{
+  "name": "s-l-p-t",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "S-L-P-T",
+  "license": "ISC",
+  "dependencies": {
+    "@keyv/mysql": "^1.1.4",
+    "@keyv/postgres": "^1.0.16",
+    "@keyv/sql": "^1.1.2",
+    "@keyv/sqlite": "^2.0.2",
+    "@mapbox/node-pre-gyp": "^1.0.3",
+    "canvacord": "^5.1.0",
+    "canvas": "^2.7.0",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^12.5.1",
+    "humanize-duration": "^3.25.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "node-gyp": "^8.0.0",
+    "node.js": "^0.0.1-security",
+    "parse-duration": "^0.4.4",
+    "sqlite3": "^4.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "description": ""
+}
